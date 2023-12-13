@@ -1,0 +1,54 @@
+.ques{
+     padding: 20px;
+     cursor: pointer;
+}
+.answ{
+    padding: 20px;
+    display: none;
+}
+
+/* Example-07 */
+#ex-7 .red, #ex-7 .green, #ex-7 .blue{
+    display: none;
+}
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.green{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+.blue{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+/* Example-14 */
+#ex-14 p{
+    padding: 40px 0;
+    width: 200px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    background-color: red;
+    border: 1px solid green;
+}
+/* Example-16 */
+.box-16{
+    margin-top: 30px;
+    width: 80%;
+    height: 200px;
+    background-color: blue;
+}
+/* Example-17 */
+.box{
+    margin-top: 30px;
+    width: 100px;
+    height: 100px;
+    background-color: #red;
+    border: 5px solid #green;
+}
